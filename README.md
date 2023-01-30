@@ -3,3 +3,6 @@ The robot is an automatically operated machine that replace a human effort.
 The main aim of our project is to develop a human machine interface used for control robot arm.
 In this project we implement a gun system for military and disaster management.
 The objective of this project is to build a robotic vehicle and robotic arm that can be controlled by blue tooth wirelessly.
+
+
+https://www.kapwing.com/videos/63d63486a1a88b00eab6ea33
